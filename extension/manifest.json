@@ -1,6 +1,6 @@
 {
     "dictionaries": {
-        "en-US": "dictionaries/en-US-lc.dic"
+        "en-US-lc": "dictionaries/en-US-lc.dic"
     },
     "version": "144.20250826",
     "browser_specific_settings": {

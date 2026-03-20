@@ -1,3 +1,7 @@
+# lowercase dictionary for Alice
+
+
+
 # English (US) Dictionary
 
 Source code for Mozilla add-on

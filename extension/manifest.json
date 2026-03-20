@@ -1,6 +1,6 @@
 {
     "dictionaries": {
-        "en-US": "dictionaries/en-US.dic"
+        "en-US": "dictionaries/en-US-lc.dic"
     },
     "version": "144.20250826",
     "browser_specific_settings": {
@@ -8,6 +8,6 @@
             "id": "en-US-mozilla@dictionaries.addons.mozilla.org"
         }
     },
-    "name": "English (US) Dictionary",
+    "name": "English (US) Dictionary - Lowercase",
     "manifest_version": 2
 }
